@@ -1,4 +1,4 @@
-<h2 align="left">O👋! Seja bem-vindo(a) ao meu perfil  <br>Eu sou Lorena Castro Dos Santos 💻✨</h2>
+<h2 align="left">Oi👋! Seja bem-vindo(a) ao meu perfil  <br>Eu sou Lorena Castro Dos Santos 💻✨</h2>
 
 ###
 
